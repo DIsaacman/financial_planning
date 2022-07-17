@@ -2,3 +2,5 @@
 .env/
 #All Hidden Folders
 .*/
+#Test
+.test/
