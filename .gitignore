@@ -1,6 +1,6 @@
 #dotenv
-.env/
+.env
 #All Hidden Folders
-.*/
+.*
 #Test
-.test/
+.test
